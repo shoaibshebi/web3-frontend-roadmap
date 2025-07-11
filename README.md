@@ -6,6 +6,28 @@
 - **Next.js Basics** (Routing, SSR/SSG, API routes)
 - **CSS/Styling** (Tailwind CSS preferred)
 
+## Youtube:
+https://www.udemy.com/course/dapp-mastery-solidity-frontend-integration-and-web3/
+
+https://www.coursera.org/learn/packt-full-stack-dapp-development-with-react-and-web3-605x4
+
+Here are the direct YouTube video links:
+
+1.  **Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course:**
+    * `https://www.youtube.com/watch?v=gyMwXuJrbJQ`
+
+2.  **Web3.js · Ethereum Blockchain Developer Crash Course:**
+    * `https://www.youtube.com/watch?v=9C5S8mKxH9g`
+
+3.  **Building a Full-Stack Web3 Application with React and Hardhat:**
+    * `https://www.youtube.com/watch?v=F01C4G5prig`
+
+4.  **Web3 React DApp with Smart Contract (Beginner friendly):**
+    * `https://www.youtube.com/watch?v=s0Ld_QjX72A`
+
+5.  **A Complete Guide into Web3 Frontend Development (From a Frontend Dev's Perspective):**
+    * `https://www.youtube.com/watch?v=0kF5kUa-oU0`
+
 ---
 
 ## 🌟 Phase 1: Web3 Fundamentals (Months 1-2)
